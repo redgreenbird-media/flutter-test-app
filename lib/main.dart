@@ -75,6 +75,7 @@ class BodyBuilder extends StatelessWidget {
       body: Stack(
         children: const [
           RandomWords(),
+          // MobileScanBuilder(),
         ],
       ),
     );
